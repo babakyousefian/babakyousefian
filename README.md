@@ -35,3 +35,8 @@
     <ul><li>14. Kali Dev</li></ul>
   </details></li></ul>
 </details>
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babakyousefian&show_icons=true&theme=transparent)
+
